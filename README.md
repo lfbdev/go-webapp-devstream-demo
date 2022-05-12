@@ -8,4 +8,6 @@ By default, the automatically generated scaffolding contains:
 - .gitignore
 - Makefile
 - Dockerfile
+
+
 - Helm chart
